@@ -17,5 +17,5 @@ https://www.linkedin.com/in/ricardo-alves-melo-3971b9265/
 
 Teacher: Nélio Alves. <br />
 https://devsuperior.com.br/cursos <br />
-https://www.linkedin.com/in/nelio-alves/?originalSubdomain=br
+https://www.linkedin.com/in/nelio-alves/?originalSubdomain=br <br />
 https://www.youtube.com/@DevSuperior
